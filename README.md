@@ -125,7 +125,7 @@ This project was developed as a college-level mini project to demonstrate practi
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**RUDRA PRASAD RATH**  
 B.Tech Student  
 Artificial Intelligence & Data Science  
 
